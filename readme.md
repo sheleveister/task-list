@@ -1,7 +1,9 @@
 ```
-npm install
+demo page:
 ```
 
+https://sheleveister.github.io/task-list/
+
 ```
-gulp
+src on develop branch
 ```
